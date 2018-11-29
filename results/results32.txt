@@ -1,0 +1,32 @@
+32
+---
+Jesse Wang: Cecily Brose
+Luke Presberg: Chris Meyer
+Neeshan Khanikar: Thomas Beckman 
+Nyah Banik: Dan Olszewski
+Jason Sylvestre: Chris Meyer
+Robert Dean: Phil Ouellette
+Vikash Malik: John Kuehl
+Joseph Engstrum: Scott Rouse
+Gleb Tsyganov: Phil Ouellette
+Jared Horwitz: Dale Willis
+Jack Pawlik: Tyler Waite
+Weipeng Zhou: Dale Willis
+Vedant Agrawal : Cecily Brose
+Mahima Chawla: Dan Olszewski
+Dan Olszewski: 2
+Cecily Brose: 2
+Chris Meyer: 2
+Laurel Link: 0
+Phil Ouellette: 2
+Jason Klein: 0
+Scott Resnick: 0
+Daniel G. Guerra Jr. : 0
+Thomas Beckman : 1
+Scott Rouse: 1
+Gary L Rebholz: 0
+Dale Willis: 2
+Tyler Waite: 1
+John Kuehl: 1
+Tyler Kennedy: 0
+

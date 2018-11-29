@@ -1,0 +1,32 @@
+35
+---
+Vikash Malik: Phil Ouellette
+Vedant Agrawal : Scott Resnick
+Nyah Banik: Dale Willis
+Robert Dean: Scott Resnick
+Gleb Tsyganov: Phil Ouellette
+Neeshan Khanikar: John Kuehl
+Joseph Engstrum: Tyler Waite
+Jason Sylvestre: Chris Meyer
+Mahima Chawla: Jason Klein
+Jesse Wang: Dale Willis
+Weipeng Zhou: Daniel G. Guerra Jr. 
+Luke Presberg: Tyler Waite
+Jared Horwitz: Chris Meyer
+Jack Pawlik: Dan Olszewski
+Dan Olszewski: 1
+John Kuehl: 1
+Laurel Link: 0
+Thomas Beckman : 0
+Dale Willis: 2
+Chris Meyer: 2
+Scott Resnick: 2
+Gary L Rebholz: 0
+Scott Rouse: 0
+Daniel G. Guerra Jr. : 1
+Jason Klein: 1
+Tyler Kennedy: 0
+Cecily Brose: 0
+Phil Ouellette: 2
+Tyler Waite: 2
+
