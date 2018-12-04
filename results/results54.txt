@@ -1,46 +1,44 @@
 54
 ---
-Robert Dean: Tyler Waite
-Jason Sylvestre: Zak Koga
-Kevin Quinn: Tyler Kennedy
-Jack Kuta: Chris Meyer
-Rita Roloff: Scott Rouse
-Austin Burg: Tyler Kennedy
-Luke Presberg: Phil Ouellette
-Ben Konrath: Zak Koga
-Eka Sutandar: Cecily Brose
-Gleb Tsyganov: Jason Klein
-Nathan Wille: Scott Resnick
-Mahima Chawla: Daniel G. Guerra Jr. 
-Nicholas Mathew: Tyler Waite
-Vikash Malik: John Kuehl
-Vedant Agrawal : Dan Olszewski
-Neeshan Khanikar: Jason Klein
-Seth Eiseman: Thomas Beckman 
-Nyah Banik: John Kuehl
-Ben Winters: Scott Rouse
-Jared Horwitz: Phil Ouellette
-Jack Yang: Dan Olszewski
-Ben Kizaric: Laurel Link
-Weipeng Zhou: Gary L Rebholz
-Jesse Wang: Dale Willis
-Joseph Engstrum: Chris Meyer
-Jack Pawlik: Cecily Brose
-Apple Crider: Scott Resnick
-Phil Ouellette: 2
-Dan Olszewski: 2
-Jason Klein: 2
-Chris Meyer: 2
+Neeshan Khanikar: Scott Rouse: 6:30 - 7:00 pm
+Nicholas Mathew: Daniel G. Guerra Jr. : 6:30 - 7:00 pm
+Vedant Agrawal : Tyler Waite: 6:30 - 7:00 pm
+Gleb Tsyganov: Chris Meyer: 6:30 - 7:00 pm
+Kevin Quinn: Gary L Rebholz: 7:00 - 7:30 pm
+Jack Kuta: John Kuehl: 6:30 - 7:00 pm
+Austin Burg: Cecily Brose: 7:30 - 8:00 pm
+Rita Roloff: Chris Meyer: 7:00 - 7:30 pm
+Luke Presberg: Gary L Rebholz: 6:30 - 7:00 pm
+Weipeng Zhou: Zak Koga: 6:30 - 7:00 pm
+Nyah Banik: Tyler Kennedy: 7:00 - 7:30 pm
+Jason Sylvestre: Zak Koga: 7:30 - 8:00 pm
+Jesse Wang: Scott Resnick: 7:00 - 7:30 pm
+Seth Eiseman: Tyler Waite: 7:00 - 7:30 pm
+Mahima Chawla: Jason Klein: 7:00 - 7:30 pm
+Apple Crider: Laurel Link: 7:00 - 7:30 pm
+Eka Sutandar: Cecily Brose: 6:30 - 7:00 pm
+Joseph Engstrum: Scott Resnick: 7:30 - 8:00 pm
+Ben Konrath: Laurel Link: 7:30 - 8:00 pm
+Robert Dean: John Kuehl: 7:30 - 8:00 pm
+Ben Winters: Jason Klein: 6:30 - 7:00 pm
+Vikash Malik: Phil Ouellette: 7:30 - 8:00 pm
+Jack Pawlik: Daniel G. Guerra Jr. : 7:30 - 8:00 pm
+Jared Horwitz: Phil Ouellette: 7:00 - 7:30 pm
+Ben Kizaric: Scott Rouse: 7:30 - 8:00 pm
+Nathan Wille: Dale Willis: 7:00 - 7:30 pm
+Jack Yang: Dale Willis: 6:30 - 7:00 pm
+Gary L Rebholz: 2
+Tyler Kennedy: 1
 Tyler Waite: 2
-Thomas Beckman : 1
 Scott Rouse: 2
+Dale Willis: 2
 John Kuehl: 2
-Dale Willis: 1
-Laurel Link: 1
-Scott Resnick: 2
-Gary L Rebholz: 1
 Zak Koga: 2
-Tyler Kennedy: 2
+Scott Resnick: 2
+Daniel G. Guerra Jr. : 2
+Chris Meyer: 2
 Cecily Brose: 2
-Daniel G. Guerra Jr. : 1
+Jason Klein: 2
+Laurel Link: 2
+Phil Ouellette: 2
 

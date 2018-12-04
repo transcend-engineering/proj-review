@@ -1,46 +1,44 @@
 56
 ---
-Weipeng Zhou: Daniel G. Guerra Jr. 
-Neeshan Khanikar: Daniel G. Guerra Jr. 
-Apple Crider: Tyler Kennedy
-Vikash Malik: Phil Ouellette
-Austin Burg: Jason Klein
-Jason Sylvestre: Zak Koga
-Seth Eiseman: Laurel Link
-Eka Sutandar: Phil Ouellette
-Joseph Engstrum: John Kuehl
-Nathan Wille: Tyler Kennedy
-Robert Dean: Chris Meyer
-Gleb Tsyganov: Jason Klein
-Ben Konrath: Thomas Beckman 
-Ben Winters: Dan Olszewski
-Luke Presberg: John Kuehl
-Jack Pawlik: Chris Meyer
-Jesse Wang: Scott Rouse
-Jack Kuta: Laurel Link
-Ben Kizaric: Dale Willis
-Nyah Banik: Tyler Waite
-Vedant Agrawal : Scott Rouse
-Rita Roloff: Cecily Brose
-Mahima Chawla: Tyler Waite
-Jack Yang: Scott Resnick
-Nicholas Mathew: Dan Olszewski
-Jared Horwitz: Scott Resnick
-Kevin Quinn: Gary L Rebholz
-Tyler Kennedy: 2
-Laurel Link: 2
-Dan Olszewski: 2
-Tyler Waite: 2
-Jason Klein: 2
-Gary L Rebholz: 1
-Scott Resnick: 2
+Seth Eiseman: Scott Rouse: 7:00 - 7:30 pm
+Ben Konrath: Phil Ouellette: 6:30 - 7:00 pm
+Jack Kuta: Jason Klein: 6:30 - 7:00 pm
+Neeshan Khanikar: Dale Willis: 6:30 - 7:00 pm
+Nathan Wille: Gary L Rebholz: 6:30 - 7:00 pm
+Jared Horwitz: John Kuehl: 7:30 - 8:00 pm
+Nicholas Mathew: Chris Meyer: 6:30 - 7:00 pm
+Jesse Wang: Daniel G. Guerra Jr. : 7:30 - 8:00 pm
+Mahima Chawla: Dale Willis: 7:00 - 7:30 pm
+Eka Sutandar: Zak Koga: 6:30 - 7:00 pm
+Ben Kizaric: Phil Ouellette: 7:00 - 7:30 pm
+Vikash Malik: Zak Koga: 7:30 - 8:00 pm
+Austin Burg: Cecily Brose: 7:30 - 8:00 pm
+Rita Roloff: Cecily Brose: 6:30 - 7:00 pm
+Robert Dean: Scott Resnick: 7:00 - 7:30 pm
+Weipeng Zhou: Scott Rouse: 6:30 - 7:00 pm
+Luke Presberg: Daniel G. Guerra Jr. : 6:30 - 7:00 pm
+Ben Winters: Tyler Waite: 6:30 - 7:00 pm
+Kevin Quinn: Laurel Link: 7:30 - 8:00 pm
+Nyah Banik: John Kuehl: 6:30 - 7:00 pm
+Vedant Agrawal : Jason Klein: 7:30 - 8:00 pm
+Joseph Engstrum: Scott Resnick: 7:30 - 8:00 pm
+Jack Pawlik: Laurel Link: 6:30 - 7:00 pm
+Gleb Tsyganov: Tyler Kennedy: 6:30 - 7:00 pm
+Jason Sylvestre: Chris Meyer: 7:30 - 8:00 pm
+Apple Crider: Tyler Waite: 7:00 - 7:30 pm
+Jack Yang: Gary L Rebholz: 7:30 - 8:00 pm
+Cecily Brose: 2
 John Kuehl: 2
-Scott Rouse: 2
+Laurel Link: 2
 Chris Meyer: 2
-Cecily Brose: 1
-Dale Willis: 1
+Zak Koga: 2
+Gary L Rebholz: 2
+Tyler Waite: 2
+Tyler Kennedy: 1
+Dale Willis: 2
+Jason Klein: 2
 Daniel G. Guerra Jr. : 2
-Thomas Beckman : 1
-Zak Koga: 1
 Phil Ouellette: 2
+Scott Rouse: 2
+Scott Resnick: 2
 

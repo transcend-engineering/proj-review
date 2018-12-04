@@ -1,46 +1,44 @@
 58
 ---
-Joseph Engstrum: Scott Rouse
-Rita Roloff: John Kuehl
-Weipeng Zhou: Jason Klein
-Jack Kuta: Thomas Beckman 
-Nathan Wille: Jason Klein
-Luke Presberg: Dan Olszewski
-Nicholas Mathew: Gary L Rebholz
-Jesse Wang: Scott Rouse
-Vikash Malik: John Kuehl
-Eka Sutandar: Dale Willis
-Neeshan Khanikar: Zak Koga
-Ben Kizaric: Scott Resnick
-Austin Burg: Chris Meyer
-Jack Pawlik: Laurel Link
-Robert Dean: Cecily Brose
-Mahima Chawla: Gary L Rebholz
-Jason Sylvestre: Zak Koga
-Apple Crider: Phil Ouellette
-Jack Yang: Tyler Kennedy
-Ben Winters: Chris Meyer
-Jared Horwitz: Daniel G. Guerra Jr. 
-Vedant Agrawal : Dan Olszewski
-Nyah Banik: Dale Willis
-Gleb Tsyganov: Tyler Kennedy
-Seth Eiseman: Daniel G. Guerra Jr. 
-Kevin Quinn: Tyler Waite
-Ben Konrath: Tyler Waite
-Gary L Rebholz: 2
-Chris Meyer: 2
-Scott Rouse: 2
-Thomas Beckman : 1
-Phil Ouellette: 1
-Dale Willis: 2
-Daniel G. Guerra Jr. : 2
-Dan Olszewski: 2
-John Kuehl: 2
+Vikash Malik: Zak Koga: 7:30 - 8:00 pm
+Neeshan Khanikar: Tyler Waite: 7:30 - 8:00 pm
+Austin Burg: Daniel G. Guerra Jr. : 7:30 - 8:00 pm
+Jack Kuta: Gary L Rebholz: 6:30 - 7:00 pm
+Weipeng Zhou: John Kuehl: 6:30 - 7:00 pm
+Luke Presberg: Tyler Waite: 6:30 - 7:00 pm
+Jesse Wang: Scott Rouse: 7:00 - 7:30 pm
+Joseph Engstrum: Cecily Brose: 7:30 - 8:00 pm
+Seth Eiseman: Jason Klein: 7:00 - 7:30 pm
+Mahima Chawla: Tyler Kennedy: 7:00 - 7:30 pm
+Jared Horwitz: Daniel G. Guerra Jr. : 7:00 - 7:30 pm
+Jason Sylvestre: Chris Meyer: 7:30 - 8:00 pm
+Nathan Wille: Gary L Rebholz: 7:00 - 7:30 pm
+Eka Sutandar: Zak Koga: 6:30 - 7:00 pm
+Kevin Quinn: Scott Resnick: 7:00 - 7:30 pm
+Ben Winters: Dale Willis: 6:30 - 7:00 pm
+Nyah Banik: Chris Meyer: 6:30 - 7:00 pm
+Vedant Agrawal : Scott Rouse: 6:30 - 7:00 pm
+Jack Pawlik: Tyler Kennedy: 7:30 - 8:00 pm
+Rita Roloff: Cecily Brose: 6:30 - 7:00 pm
+Jack Yang: John Kuehl: 7:00 - 7:30 pm
+Ben Konrath: Laurel Link: 7:00 - 7:30 pm
+Robert Dean: Dale Willis: 7:00 - 7:30 pm
+Ben Kizaric: Phil Ouellette: 7:00 - 7:30 pm
+Gleb Tsyganov: Jason Klein: 6:30 - 7:00 pm
+Apple Crider: Phil Ouellette: 6:30 - 7:00 pm
+Nicholas Mathew: Laurel Link: 6:30 - 7:00 pm
+Cecily Brose: 2
 Tyler Kennedy: 2
-Laurel Link: 1
 Jason Klein: 2
-Cecily Brose: 1
-Scott Resnick: 1
 Tyler Waite: 2
+Chris Meyer: 2
+John Kuehl: 2
+Daniel G. Guerra Jr. : 2
+Phil Ouellette: 2
+Gary L Rebholz: 2
+Laurel Link: 2
+Scott Rouse: 2
+Dale Willis: 2
 Zak Koga: 2
+Scott Resnick: 1
 

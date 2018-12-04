@@ -77,7 +77,7 @@ def matchMake(path, students, mentors):
 				outfile.write(str(score))
 				outfile.write('\n---\n')
 				for s in students:
-					outfile.write(s['name'] + ': ' + s['mentor'])
+					outfile.write(s['name'] + ': ' + s['mentor'] + ': ' + s['time'])
 					outfile.write('\n')
 				for m in mentors:
 					outfile.write(m['name'] + ': ' + str(m['count']))
@@ -90,6 +90,7 @@ def verifyMatch(student, mentor):
 	found = False
 	score = 0
 	matches = []
+	time = ''
 	for t in student['times']:
 		if t in mentor['times']:
 			matches.append(t)
@@ -104,6 +105,7 @@ def verifyMatch(student, mentor):
 				found = True
 	if found:
 		student['mentor'] = mentor['name']
+		student['time'] = matches[0]
 		mentor['count'] += 1
 	return score
 

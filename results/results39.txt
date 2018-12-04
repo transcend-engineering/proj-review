@@ -1,0 +1,44 @@
+39
+---
+Jack Kuta: Chris Meyer: 6:30 - 7:00 pm
+Nyah Banik: Daniel G. Guerra Jr. : 6:30 - 7:00 pm
+Jack Yang: Scott Resnick: 7:00 - 7:30 pm
+Nathan Wille: Gary L Rebholz: 7:00 - 7:30 pm
+Joseph Engstrum: Scott Resnick: 7:30 - 8:00 pm
+Apple Crider: Gary L Rebholz: 6:30 - 7:00 pm
+Ben Winters: Tyler Kennedy: 6:30 - 7:00 pm
+Seth Eiseman: Phil Ouellette: 6:30 - 7:00 pm
+Robert Dean: Cecily Brose: 7:00 - 7:30 pm
+Neeshan Khanikar: Laurel Link: 7:30 - 8:00 pm
+Austin Burg: Tyler Kennedy: 7:30 - 8:00 pm
+Ben Kizaric: Tyler Waite: 7:00 - 7:30 pm
+Mahima Chawla: Laurel Link: 7:00 - 7:30 pm
+Gleb Tsyganov: Scott Rouse: 6:30 - 7:00 pm
+Jesse Wang: Dale Willis: 7:00 - 7:30 pm
+Vedant Agrawal : Zak Koga: 7:00 - 7:30 pm
+Jared Horwitz: Daniel G. Guerra Jr. : 7:30 - 8:00 pm
+Vikash Malik: Cecily Brose: 7:30 - 8:00 pm
+Weipeng Zhou: Zak Koga: 6:30 - 7:00 pm
+Ben Konrath: Tyler Waite: 6:30 - 7:00 pm
+Nicholas Mathew: Phil Ouellette: 7:00 - 7:30 pm
+Luke Presberg: Dale Willis: 6:30 - 7:00 pm
+Jason Sylvestre: Chris Meyer: 7:30 - 8:00 pm
+Eka Sutandar: John Kuehl: 6:30 - 7:00 pm
+Jack Pawlik: Jason Klein: 7:30 - 8:00 pm
+Kevin Quinn: Jason Klein: 7:00 - 7:30 pm
+Rita Roloff: John Kuehl: 7:00 - 7:30 pm
+Cecily Brose: 2
+Scott Resnick: 2
+Tyler Kennedy: 2
+Tyler Waite: 2
+Chris Meyer: 2
+Phil Ouellette: 2
+Laurel Link: 2
+Zak Koga: 2
+Jason Klein: 2
+Dale Willis: 2
+Daniel G. Guerra Jr. : 2
+Gary L Rebholz: 2
+John Kuehl: 2
+Scott Rouse: 1
+
