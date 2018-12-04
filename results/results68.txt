@@ -1,0 +1,46 @@
+68
+---
+Jack Pawlik: Laurel Link
+Ben Kizaric: Daniel G. Guerra Jr. 
+Ben Konrath: Dan Olszewski
+Mahima Chawla: Scott Resnick
+Nyah Banik: Scott Rouse
+Luke Presberg: Jason Klein
+Gleb Tsyganov: Dale Willis
+Jack Yang: Laurel Link
+Jason Sylvestre: Zak Koga
+Neeshan Khanikar: Gary L Rebholz
+Robert Dean: Gary L Rebholz
+Rita Roloff: Zak Koga
+Nathan Wille: Jason Klein
+Weipeng Zhou: Tyler Kennedy
+Ben Winters: John Kuehl
+Joseph Engstrum: Scott Rouse
+Jared Horwitz: Dan Olszewski
+Vikash Malik: Phil Ouellette
+Eka Sutandar: Cecily Brose
+Nicholas Mathew: Phil Ouellette
+Jesse Wang: Cecily Brose
+Apple Crider: John Kuehl
+Vedant Agrawal : Daniel G. Guerra Jr. 
+Kevin Quinn: Dale Willis
+Austin Burg: Chris Meyer
+Seth Eiseman: Chris Meyer
+Jack Kuta: Tyler Waite
+Dan Olszewski: 2
+John Kuehl: 2
+Scott Rouse: 2
+Zak Koga: 2
+Jason Klein: 2
+Daniel G. Guerra Jr. : 2
+Chris Meyer: 2
+Gary L Rebholz: 2
+Tyler Kennedy: 1
+Cecily Brose: 2
+Phil Ouellette: 2
+Scott Resnick: 1
+Dale Willis: 2
+Thomas Beckman : 0
+Tyler Waite: 1
+Laurel Link: 2
+

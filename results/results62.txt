@@ -1,0 +1,46 @@
+62
+---
+Jared Horwitz: Phil Ouellette
+Jack Kuta: Tyler Kennedy
+Eka Sutandar: Chris Meyer
+Ben Konrath: Scott Resnick
+Neeshan Khanikar: John Kuehl
+Nyah Banik: Zak Koga
+Ben Winters: John Kuehl
+Ben Kizaric: Laurel Link
+Weipeng Zhou: Scott Rouse
+Jack Yang: Scott Rouse
+Nathan Wille: Gary L Rebholz
+Jason Sylvestre: Chris Meyer
+Luke Presberg: Tyler Waite
+Joseph Engstrum: Jason Klein
+Seth Eiseman: Cecily Brose
+Kevin Quinn: Dan Olszewski
+Vikash Malik: Phil Ouellette
+Jesse Wang: Scott Resnick
+Nicholas Mathew: Daniel G. Guerra Jr. 
+Mahima Chawla: Jason Klein
+Jack Pawlik: Tyler Kennedy
+Apple Crider: Thomas Beckman 
+Gleb Tsyganov: Dan Olszewski
+Rita Roloff: Cecily Brose
+Robert Dean: Tyler Waite
+Vedant Agrawal : Daniel G. Guerra Jr. 
+Austin Burg: Zak Koga
+Scott Rouse: 2
+Phil Ouellette: 2
+Cecily Brose: 2
+Thomas Beckman : 1
+John Kuehl: 2
+Daniel G. Guerra Jr. : 2
+Scott Resnick: 2
+Tyler Kennedy: 2
+Dale Willis: 0
+Jason Klein: 2
+Zak Koga: 2
+Tyler Waite: 2
+Laurel Link: 1
+Dan Olszewski: 2
+Chris Meyer: 2
+Gary L Rebholz: 1
+

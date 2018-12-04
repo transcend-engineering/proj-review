@@ -1,0 +1,46 @@
+55
+---
+Luke Presberg: Cecily Brose
+Joseph Engstrum: Scott Rouse
+Vikash Malik: Cecily Brose
+Robert Dean: Gary L Rebholz
+Ben Winters: Tyler Waite
+Seth Eiseman: Zak Koga
+Eka Sutandar: Chris Meyer
+Apple Crider: Scott Rouse
+Gleb Tsyganov: Phil Ouellette
+Jack Kuta: Thomas Beckman 
+Jason Sylvestre: Zak Koga
+Jack Pawlik: Daniel G. Guerra Jr. 
+Kevin Quinn: Scott Resnick
+Jared Horwitz: Gary L Rebholz
+Jack Yang: Laurel Link
+Nathan Wille: Chris Meyer
+Mahima Chawla: Jason Klein
+Nicholas Mathew: Daniel G. Guerra Jr. 
+Austin Burg: John Kuehl
+Jesse Wang: Jason Klein
+Weipeng Zhou: Dan Olszewski
+Rita Roloff: Tyler Waite
+Ben Konrath: John Kuehl
+Nyah Banik: Dale Willis
+Vedant Agrawal : Scott Resnick
+Ben Kizaric: Laurel Link
+Neeshan Khanikar: Dan Olszewski
+Dan Olszewski: 2
+Thomas Beckman : 1
+Chris Meyer: 2
+Scott Resnick: 2
+Zak Koga: 2
+Tyler Kennedy: 0
+Jason Klein: 2
+Cecily Brose: 2
+Dale Willis: 1
+Scott Rouse: 2
+Phil Ouellette: 1
+Laurel Link: 2
+Tyler Waite: 2
+Gary L Rebholz: 2
+Daniel G. Guerra Jr. : 2
+John Kuehl: 2
+

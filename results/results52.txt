@@ -1,0 +1,46 @@
+52
+---
+Austin Burg: Daniel G. Guerra Jr. 
+Rita Roloff: John Kuehl
+Vedant Agrawal : Tyler Waite
+Neeshan Khanikar: Scott Resnick
+Jack Kuta: Zak Koga
+Jack Yang: Thomas Beckman 
+Nicholas Mathew: Daniel G. Guerra Jr. 
+Jared Horwitz: Scott Resnick
+Apple Crider: John Kuehl
+Jesse Wang: Jason Klein
+Mahima Chawla: Cecily Brose
+Weipeng Zhou: Jason Klein
+Robert Dean: Dan Olszewski
+Ben Kizaric: Scott Rouse
+Luke Presberg: Dale Willis
+Seth Eiseman: Tyler Kennedy
+Ben Konrath: Dan Olszewski
+Vikash Malik: Zak Koga
+Jack Pawlik: Laurel Link
+Nathan Wille: Chris Meyer
+Ben Winters: Gary L Rebholz
+Nyah Banik: Gary L Rebholz
+Jason Sylvestre: Chris Meyer
+Kevin Quinn: Dale Willis
+Joseph Engstrum: Cecily Brose
+Gleb Tsyganov: Phil Ouellette
+Eka Sutandar: Scott Rouse
+Tyler Kennedy: 1
+Daniel G. Guerra Jr. : 2
+Scott Resnick: 2
+Cecily Brose: 2
+John Kuehl: 2
+Phil Ouellette: 1
+Zak Koga: 2
+Laurel Link: 1
+Dale Willis: 2
+Thomas Beckman : 1
+Chris Meyer: 2
+Dan Olszewski: 2
+Gary L Rebholz: 2
+Tyler Waite: 1
+Scott Rouse: 2
+Jason Klein: 2
+
