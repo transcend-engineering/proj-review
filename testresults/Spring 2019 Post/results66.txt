@@ -1,0 +1,43 @@
+66
+-----
+John Kuehl                | 6:45 - 7:15 pm | Yang Cui                  | john@hankr.com                           | cui29@wisc.edu                                                                                      
+Daniel G. Guerra Jr.      | 6:45 - 7:15 pm | Emily Her                 | dguerrajr@altuscampus.com                | eher4@wisc.edu, khchong@wisc.edu, semington@wisc.edu, kjsmith32@wisc.edu, gstatz@wisc.edu           
+Daniel G. Guerra Jr.      | 6:00 - 6:30 pm | Paras Dalal               | dguerrajr@altuscampus.com                | pdalal@wisc.edu, zschuster2@wisc.edu, aburg3@wisc.edu, caine2@wisc.edu, abilkey@wisc.edu, jduerst@wisc.edu
+Chandra Miller Fienen     | 5:30 - 6:00 pm | Neeshan Khanikar          | chandra@startingblockmadison.org         | khanikar@wisc.edu; kyle.wang@wisc.edu; jyang436@wisc.edu; govsepyan@wisc.edu; jkou3@wisc.edu        
+Kayla Storlid             | 6:00 - 6:30 pm | Connor Flint              | kkstorlid@gmail.com                      | cflint@wisc.edu, bakizaric@wisc.edu                                                                 
+Daniel G. Guerra Jr.      | 5:30 - 6:00 pm | Hunter Hessel             | dguerrajr@altuscampus.com                | hhessel@wisc.edu                                                                                    
+Kayla Storlid             | 6:45 - 7:15 pm | James Xu                  | kkstorlid@gmail.com                      | jcxu2@wisc.edu                                                                                      
+Jesse Darley              | 6:00 - 6:30 pm | Steven Martell            | jesse.darley@design-concepts.com         | skmartell@wisc.edu                                                                                  
+Chandra Miller Fienen     | 6:00 - 6:30 pm | Connor Gaeth              | chandra@startingblockmadison.org         | gaeth@wisc.edu, cgiesler@wisc.edu                                                                   
+Jesse Darley              | 5:30 - 6:00 pm | Fan-Jean Liu              | jesse.darley@design-concepts.com         | fliu96@wisc.edu , crsweeney3@wisc.edu                                                               
+John Kuehl                | 5:30 - 6:00 pm | Ahmed Abdelazim           | john@hankr.com                           | abdelazim@wisc.edu                                                                                  
+Kayla Storlid             | 5:30 - 6:00 pm | Akshat Raika              | kkstorlid@gmail.com                      | raika@wisc.edu                                                                                      
+Jesse Darley              | 6:45 - 7:15 pm | Robert Dean               | jesse.darley@design-concepts.com         | rsdean@wisc.edu                                                                                     
+Dan Borkhus               | 5:30 - 6:00 pm | Rita Roloff               | dan@holos.io                             | rroloff@wisc.edu                                                                                    
+Tyler Waite               | 5:30 - 6:00 pm | Gleb Tsyganov             | tyler@holos.io                           | tsyganov@wisc.edu ddmiller3@wisc.edu                                                                
+Tyler Waite               | 6:45 - 7:15 pm | Kevin Quinn               | tyler@holos.io                           | kpquinn2@wisc.edu                                                                                   
+John Kuehl                | 6:00 - 6:30 pm | Mustafa Musabeyli         | john@hankr.com                           | musabeyli@wisc.edu                                                                                  
+Scott Rouse               | 6:45 - 7:15 pm | Jack Pawlik               | scott.rouse@gmail.com                    | jack@corkdrinks.com                                                                                 
+Tyler Waite               | 6:00 - 6:30 pm | Jack Yang                 | tyler@holos.io                           | zyang366@wisc.edu                                                                                   
+Chandra Miller Fienen     | 6:45 - 7:15 pm | Emik Vayts                | chandra@startingblockmadison.org         | vayts@wisc.edu, ajbiwer@wisc.edu, bmweiler@wisc.edu, bknapek@wisc.edu, skafkas@wisc.edu             
+Scott Button              | 5:30 - 6:00 pm | Saivya Chauhan            | scott@ventureinvestors.com               | schauhan4@wisc.edu, akshat.khanna@wisc.edu                                                          
+Dan Borkhus               | 6:45 - 7:15 pm | Joe Dodridge              | dan@holos.io                             | dodridge@wisc.edu                                                                                   
+Steve O'Brien             | 6:45 - 7:15 pm | Luke Presberg             | steve@nobleapplications.com              | luke@woav.one                                                                                       
+Cedric Wesley             | 5:30 - 6:00 pm | Nathan Eggenberger        | cswesley@wisc.edu                        | petersonn74@gmail.com
+neggenberger@wisc.edu                                                         
+Scott Button              | 6:00 - 6:30 pm | Vedant Agrawal            | scott@ventureinvestors.com               | vagrawal4@wisc.edu, jcompas@wisc.edu                                                                
+Counts
+-----
+Scott Button              | 2
+Jesse Darley              | 3
+Kayla Storlid             | 3
+Matt starr                | 0
+Tyler Waite               | 3
+Cedric Wesley             | 1
+Daniel G. Guerra Jr.      | 3
+Scott Rouse               | 1
+Chandra Miller Fienen     | 3
+Dan Borkhus               | 2
+John Kuehl                | 3
+Steve O'Brien             | 1
+

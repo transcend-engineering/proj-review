@@ -1,0 +1,46 @@
+59
+-----
+Laurel Link               | 7:30 - 8:00 pm | Austin Burg              
+Laurel Link               | 7:00 - 7:30 pm | Kevin Quinn              
+Cecily Brose              | 7:00 - 7:30 pm | Jesse Wang               
+Chris Meyer               | 6:30 - 7:00 pm | Eka Sutandar             
+Gary L Rebholz            | 6:30 - 7:00 pm | Nathan Wille             
+Gary L Rebholz            | 7:00 - 7:30 pm | Nicholas Mathew          
+Phil Ouellette            | 7:00 - 7:30 pm | Ben Kizaric              
+Phil Ouellette            | 7:30 - 8:00 pm | Rita Roloff              
+Dale Willis               | 6:30 - 7:00 pm | Jack Yang                
+Daniel G. Guerra Jr.      | 7:00 - 7:30 pm | Vedant Agrawal           
+Tyler Waite               | 6:30 - 7:00 pm | Jack Pawlik              
+Jason Klein               | 7:30 - 8:00 pm | Joseph Engstrum          
+Daniel G. Guerra Jr.      | 6:30 - 7:00 pm | Jack Kuta                
+Scott Resnick             | 7:30 - 8:00 pm | Ben Konrath              
+Scott Resnick             | 7:00 - 7:30 pm | Neeshan Khanikar         
+Scott Rouse               | 7:00 - 7:30 pm | Robert Dean              
+John Kuehl                | 6:30 - 7:00 pm | Luke Presberg            
+Tyler Kennedy             | 6:30 - 7:00 pm | Weipeng Zhou             
+Zak Koga                  | 7:00 - 7:30 pm | Seth Eiseman             
+Chris Meyer               | 7:00 - 7:30 pm | Apple Crider             
+Zak Koga                  | 7:30 - 8:00 pm | Jason Sylvestre          
+Tyler Waite               | 7:00 - 7:30 pm | Jared Horwitz            
+Cecily Brose              | 6:30 - 7:00 pm | Gleb Tsyganov            
+John Kuehl                | 7:30 - 8:00 pm | Vikash Malik             
+Dale Willis               | 7:00 - 7:30 pm | Mahima Chawla            
+Scott Rouse               | 6:30 - 7:00 pm | Ben Winters              
+Jason Klein               | 7:00 - 7:30 pm | Nyah Banik               
+Counts
+-----
+Daniel G. Guerra Jr.      | 2
+Dale Willis               | 2
+Jason Klein               | 2
+Phil Ouellette            | 2
+Tyler Kennedy             | 1
+Scott Rouse               | 2
+Cecily Brose              | 2
+Tyler Waite               | 2
+Chris Meyer               | 2
+Gary L Rebholz            | 2
+Scott Resnick             | 2
+Zak Koga                  | 2
+John Kuehl                | 2
+Laurel Link               | 2
+

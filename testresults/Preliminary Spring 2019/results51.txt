@@ -1,0 +1,34 @@
+51
+-----
+Jesse Darley              | 5:30 - 6:00 pm | Joe Dodridge             
+Steve O'Brien             | 6:45 - 7:15 pm | Emik Vayts               
+Jesse Darley              | 6:00 - 6:30 pm | Steven Martell           
+Kayla Storlid             | 6:00 - 6:30 pm | Akshat Raika             
+Dan Borkhus               | 6:45 - 7:15 pm | Emily Her                
+Daniel G. Guerra Jr.      | 6:45 - 7:15 pm | James Xu                 
+Tyler Waite               | 5:30 - 6:00 pm | Saivya Chauhan           
+Kayla Storlid             | 6:45 - 7:15 pm | Yang Cui                 
+Steve O'Brien             | 6:00 - 6:30 pm | Rita Roloff              
+Tyler Waite               | 6:00 - 6:30 pm | Kevin Quinn              
+John Kuehl                | 5:30 - 6:00 pm | Fan-Jean Liu             
+Daniel G. Guerra Jr.      | 5:30 - 6:00 pm | Ahmed Abdelazim          
+Jenni Le                  | 6:00 - 6:30 pm | Vedant Agrawal           
+John Kuehl                | 6:00 - 6:30 pm | Robert Dean              
+Kieran Furlong            | 6:45 - 7:15 pm | Luke Presberg            
+Scott Rouse               | 6:45 - 7:15 pm | Jack Pawlik              
+Counts
+-----
+Kieran Furlong            | 1
+Dan Borkhus               | 1
+Scott Rouse               | 1
+Daniel G. Guerra Jr.      | 2
+John Kuehl                | 2
+Steve O'Brien             | 2
+Jesse Darley              | 2
+Jenni Le                  | 1
+Kayla Storlid             | 2
+Tyler Waite               | 2
+Scott Button              | 0
+Cedric Wesley             | 0
+Matt starr                | 0
+
