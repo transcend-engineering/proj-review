@@ -1,0 +1,32 @@
+41
+-----
+Nicholas Shepherd         | 7:00 - 7:30 pm | Akshay Bodla              |                                          |                                                                                                     
+Zak Koga                  | 6:00 - 6:30 pm | Justin Mielke             |                                          |                                                                                                     
+Tyler Waite               | 6:00 - 6:30 pm | Ahmed Abdelazim           |                                          |                                                                                                     
+Daniel G. Guerra Jr.      | 6:00 - 6:30 pm | Jeremy Boetticher         |                                          |                                                                                                     
+Jason Klein               | 7:00 - 7:30 pm | Alan Cortez               |                                          |                                                                                                     
+Jason Klein               | 6:30 - 7:00 pm | ben pekala, Yona Chen     |                                          |                                                                                                     
+Phil C Ouellette          | 7:00 - 7:30 pm | Alan Cortez               |                                          |                                                                                                     
+Chris Meyer               | 6:00 - 6:30 pm | Aditya Parihar            |                                          |                                                                                                     
+Tyler Waite               | 7:00 - 7:30 pm | Sam Fong                  |                                          |                                                                                                     
+Tyler Waite               | 6:30 - 7:00 pm | Paul Jackson II           |                                          |                                                                                                     
+Mike wagner               | 6:00 - 6:30 pm | Nick Peterson             |                                          |                                                                                                     
+Ken johnson               | 7:00 - 7:30 pm | JT Nejedlo                |                                          |                                                                                                     
+Jerry Battist             | 7:00 - 7:30 pm | Abhijeet Manohar          |                                          |                                                                                                     
+Counts
+-----
+Phil C Ouellette          | 1
+Tyler Waite               | 3
+Jerry Battist             | 1
+Jason Klein               | 2
+Ken johnson               | 1
+Chandra Miller Fienen     | 0
+Jesse Darley              | 0
+                          | 0
+Mike wagner               | 1
+Daniel G. Guerra Jr.      | 1
+Nicholas Shepherd         | 1
+Chris Meyer               | 1
+Dale Willis               | 0
+Zak Koga                  | 1
+
