@@ -1,13 +1,15 @@
-Timestamp,email,Phone Number,name,times,areas
-2/18/2019 22:05,tyler@holos.io,920-918-5499,Tyler Waite,"5:30 - 6:00 pm, 6:00 - 6:30 pm, 6:45 - 7:15 pm","Business, Design, Education, Pitching, Software, Web development"
-2/18/2019 22:11,dan@holos.io,4147455109,Dan Borkhus,"5:30 - 6:00 pm, 6:00 - 6:30 pm, 6:45 - 7:15 pm","Business, Design, Education, Entertainment, Finance/Economics, Software"
-2/19/2019 9:31,kkstorlid@gmail.com,068-345-1493,Kayla Storlid,"5:30 - 6:00 pm, 6:00 - 6:30 pm, 6:45 - 7:15 pm","Business, Manufacturing, Media/Marketing, Pitching"
-2/19/2019 10:25,dguerrajr@altuscampus.com,608-212-2391,Daniel G. Guerra Jr.,"5:30 - 6:00 pm, 6:00 - 6:30 pm, 6:45 - 7:15 pm","Advertising, Business, Education, Healthcare, Media/Marketing, Pitching, Software, Web development"
-2/20/2019 8:55,jesse.darley@design-concepts.com,6082133898,Jesse Darley,"5:30 - 6:00 pm, 6:00 - 6:30 pm, 6:45 - 7:15 pm","Business, Design, Hardware, Healthcare, Insurance, Manufacturing, Pitching, Research"
-2/20/2019 11:17,scott.rouse@gmail.com,6082153249,Scott Rouse,"5:30 - 6:00 pm, 6:00 - 6:30 pm, 6:45 - 7:15 pm","Advertising, Business, Design, Education, Finance/Economics, Healthcare, Media/Marketing, Pitching, Research, Software, Web development"
-2/25/2019 19:32,mbstarrgrad@gmail.com,3125047791,Matt starr,5:30 - 6:00 pm,"Advertising, Business, Chemical, Design, Energy, Food, Hardware, Manufacturing, Media/Marketing, Research"
-2/26/2019 11:33,john@hankr.com,608-206-6967,John Kuehl,"5:30 - 6:00 pm, 6:00 - 6:30 pm, 6:45 - 7:15 pm","Advertising, Business, Design, Journalism, Media/Marketing, Pitching, Software, Web development"
-2/26/2019 15:20,steve@nobleapplications.com,608.417.0955,Steve O'Brien,"5:30 - 6:00 pm, 6:00 - 6:30 pm, 6:45 - 7:15 pm","Advertising, Agriculture, Business, Construction, Design, Education, Entertainment, Finance/Economics, Food, Hardware, Healthcare, Insurance, Journalism, Manufacturing, Media/Marketing, Pitching, Research, Software, Web development"
-2/27/2019 9:32,cswesley@wisc.edu,608-807-8199,Cedric Wesley,5:30 - 6:00 pm,"Agriculture, Business, Education, Entertainment, Journalism, Research"
-2/27/2019 16:17,scott@ventureinvestors.com,6084412705,Scott Button,"5:30 - 6:00 pm, 6:00 - 6:30 pm",Healthcare
-2/28/2019 22:15,chandra@startingblockmadison.org,6083347522,Chandra Miller Fienen,"5:30 - 6:00 pm, 6:00 - 6:30 pm, 6:45 - 7:15 pm","Business, Pitching"
+Timestamp,Email Address,Phone Number,Your name (First and Last),Time Slot(s) You Can Mentor,Areas/Industries you're interested in hearing about and giving feedback on. (Select all that apply)
+,,,,,
+11/11/2019 20:00,,,Nicholas Shepherd,"6:00 - 6:30 pm, 6:30 - 7:00 pm, 7:00 - 7:30 pm","Business, Design, Hardware, Manufacturing"
+11/11/2019 20:03,,,Mike wagner,6:00 - 6:30 pm,"Business, Design, Healthcare, Media/Marketing, Pitching, Software, Web development"
+11/12/2019 8:05,,,Phil C Ouellette,"6:00 - 6:30 pm, 6:30 - 7:00 pm, 7:00 - 7:30 pm","Advertising, Business, Finance/Economics, Media/Marketing, Pitching"
+11/12/2019 8:58,,,Jesse Darley,"6:00 - 6:30 pm, 6:30 - 7:00 pm","Design, Hardware, Healthcare, Manufacturing, Pitching, Research"
+11/12/2019 9:24,,,Chandra Miller Fienen,"6:30 - 7:00 pm, 7:00 - 7:30 pm","Business, Pitching, General Entrepreneurship"
+11/12/2019 13:34,,,Zak Koga,"6:00 - 6:30 pm, 6:30 - 7:00 pm","Advertising, Agriculture, Business, Construction, Education, Entertainment, Finance/Economics, Food, Manufacturing, Media/Marketing"
+11/12/2019 14:10,,,Ken johnson,"6:00 - 6:30 pm, 6:30 - 7:00 pm, 7:00 - 7:30 pm","Advertising, Agriculture, Business, Construction, Education, Entertainment, Finance/Economics, Food, Manufacturing, Media/Marketing"
+11/12/2019 19:23,,,Tyler Waite,"6:00 - 6:30 pm, 6:30 - 7:00 pm, 7:00 - 7:30 pm","Business, Design, Education, Pitching, Software, Web development"
+11/14/2019 15:37,,,Chris Meyer,"6:00 - 6:30 pm, 6:30 - 7:00 pm, 7:00 - 7:30 pm","Business, Construction, Design, Education, Energy, Hardware, Manufacturing"
+11/15/2019 11:16,,,Daniel G. Guerra Jr.,"6:00 - 6:30 pm, 6:30 - 7:00 pm, 7:00 - 7:30 pm","Advertising, Business, Education, Healthcare, Media/Marketing, Software, Web development"
+11/18/2019 8:55,,,Jerry Battist,"6:00 - 6:30 pm, 6:30 - 7:00 pm, 7:00 - 7:30 pm","Business, Chemical, Energy, Finance/Economics, Hardware, Manufacturing, Pitching, Research, Software, Technology"
+11/18/2019 12:48,,,Jason Klein,"6:00 - 6:30 pm, 6:30 - 7:00 pm, 7:00 - 7:30 pm","Business, Finance/Economics, Hardware, Software"
+11/19/2019 19:33,,,Dale Willis,"6:00 - 6:30 pm, 6:30 - 7:00 pm","Business, Software, Web development"
