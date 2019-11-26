@@ -1,0 +1,42 @@
+83
+-----
+Chandra Miller Fienen     | 6:00 - 6:30 pm | Paras Dalal              
+Tyler Waite               | 6:45 - 7:15 pm | Jack Pawlik              
+Kayla Storlid             | 6:45 - 7:15 pm | Emily Her                
+Dan Borkhus               | 6:45 - 7:15 pm | Yang Cui                 
+Daniel G. Guerra Jr.      | 5:30 - 6:00 pm | Jack Yang                
+Tyler Waite               | 6:00 - 6:30 pm | Akshat Raika             
+Tyler Waite               | 5:30 - 6:00 pm | Gleb Tsyganov            
+Chandra Miller Fienen     | 6:45 - 7:15 pm | James Xu                 
+Daniel G. Guerra Jr.      | 6:45 - 7:15 pm | Neeshan Khanikar         
+John Kuehl                | 6:45 - 7:15 pm | Steven Martell           
+Jesse Darley              | 6:45 - 7:15 pm | Luke Presberg            
+Jesse Darley              | 5:30 - 6:00 pm | Joe Dodridge             
+Scott Rouse               | 6:45 - 7:15 pm | Emik Vayts               
+Dan Borkhus               | 5:30 - 6:00 pm | Nathan Eggenberger       
+Kayla Storlid             | 6:00 - 6:30 pm | Connor Flint             
+Steve O'Brien             | 6:00 - 6:30 pm | Vedant Agrawal           
+Kayla Storlid             | 5:30 - 6:00 pm | Robert Dean              
+Chandra Miller Fienen     | 5:30 - 6:00 pm | Mustafa Musabeyli        
+John Kuehl                | 6:00 - 6:30 pm | Hunter Hessel            
+Scott Button              | 5:30 - 6:00 pm | Kevin Quinn              
+Daniel G. Guerra Jr.      | 6:00 - 6:30 pm | Rita Roloff              
+Cedric Wesley             | 5:30 - 6:00 pm | Saivya Chauhan           
+Dan Borkhus               | 6:00 - 6:30 pm | Ahmed Abdelazim          
+John Kuehl                | 5:30 - 6:00 pm | Fan-Jean Liu             
+Scott Button              | 6:00 - 6:30 pm | Connor Gaeth             
+Counts
+-----
+John Kuehl                | 3
+Daniel G. Guerra Jr.      | 3
+Scott Button              | 2
+Scott Rouse               | 1
+Matt starr                | 0
+Steve O'Brien             | 1
+Cedric Wesley             | 1
+Tyler Waite               | 3
+Chandra Miller Fienen     | 3
+Kayla Storlid             | 3
+Dan Borkhus               | 3
+Jesse Darley              | 2
+

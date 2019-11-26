@@ -1,0 +1,42 @@
+80
+-----
+Jesse Darley              | 5:30 - 6:00 pm | Jack Yang                
+Steve O'Brien             | 6:45 - 7:15 pm | Emily Her                
+Daniel G. Guerra Jr.      | 6:45 - 7:15 pm | Emik Vayts               
+Tyler Waite               | 5:30 - 6:00 pm | Joe Dodridge             
+Tyler Waite               | 6:00 - 6:30 pm | Steven Martell           
+Dan Borkhus               | 5:30 - 6:00 pm | Akshat Raika             
+Matt starr                | 5:30 - 6:00 pm | Saivya Chauhan           
+Steve O'Brien             | 6:00 - 6:30 pm | Vedant Agrawal           
+Chandra Miller Fienen     | 5:30 - 6:00 pm | Mustafa Musabeyli        
+Dan Borkhus               | 6:45 - 7:15 pm | Hunter Hessel            
+Jesse Darley              | 6:00 - 6:30 pm | Connor Flint             
+Daniel G. Guerra Jr.      | 6:00 - 6:30 pm | Kevin Quinn              
+Daniel G. Guerra Jr.      | 5:30 - 6:00 pm | Neeshan Khanikar         
+Scott Rouse               | 5:30 - 6:00 pm | Fan-Jean Liu             
+Chandra Miller Fienen     | 6:45 - 7:15 pm | Yang Cui                 
+Tyler Waite               | 6:45 - 7:15 pm | Luke Presberg            
+Steve O'Brien             | 5:30 - 6:00 pm | Robert Dean              
+Kayla Storlid             | 6:45 - 7:15 pm | James Xu                 
+Jesse Darley              | 6:45 - 7:15 pm | Jack Pawlik              
+Scott Button              | 5:30 - 6:00 pm | Gleb Tsyganov            
+Chandra Miller Fienen     | 6:00 - 6:30 pm | Rita Roloff              
+Kayla Storlid             | 5:30 - 6:00 pm | Ahmed Abdelazim          
+Dan Borkhus               | 6:00 - 6:30 pm | Connor Gaeth             
+John Kuehl                | 6:00 - 6:30 pm | Paras Dalal              
+Cedric Wesley             | 5:30 - 6:00 pm | Nathan Eggenberger       
+Counts
+-----
+Dan Borkhus               | 3
+Matt starr                | 1
+Scott Rouse               | 1
+Tyler Waite               | 3
+Cedric Wesley             | 1
+Steve O'Brien             | 3
+Scott Button              | 1
+Daniel G. Guerra Jr.      | 3
+Kayla Storlid             | 2
+Jesse Darley              | 3
+John Kuehl                | 1
+Chandra Miller Fienen     | 3
+

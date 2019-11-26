@@ -1,0 +1,42 @@
+94
+-----
+Scott Button              | 5:30 - 6:00 pm | Joe Dodridge             
+Matt starr                | 5:30 - 6:00 pm | Akshat Raika             
+Chandra Miller Fienen     | 6:45 - 7:15 pm | Luke Presberg            
+John Kuehl                | 6:00 - 6:30 pm | Kevin Quinn              
+Kayla Storlid             | 6:00 - 6:30 pm | Robert Dean              
+Steve O'Brien             | 6:45 - 7:15 pm | Emik Vayts               
+Jesse Darley              | 6:45 - 7:15 pm | Yang Cui                 
+Tyler Waite               | 6:45 - 7:15 pm | James Xu                 
+Tyler Waite               | 6:00 - 6:30 pm | Mustafa Musabeyli        
+John Kuehl                | 6:45 - 7:15 pm | Connor Gaeth             
+Chandra Miller Fienen     | 6:00 - 6:30 pm | Gleb Tsyganov            
+Cedric Wesley             | 5:30 - 6:00 pm | Ahmed Abdelazim          
+Scott Rouse               | 5:30 - 6:00 pm | Fan-Jean Liu             
+John Kuehl                | 5:30 - 6:00 pm | Hunter Hessel            
+Scott Rouse               | 6:00 - 6:30 pm | Neeshan Khanikar         
+Jesse Darley              | 6:00 - 6:30 pm | Steven Martell           
+Dan Borkhus               | 6:00 - 6:30 pm | Connor Flint             
+Steve O'Brien             | 6:00 - 6:30 pm | Jack Yang                
+Scott Button              | 6:00 - 6:30 pm | Paras Dalal              
+Kayla Storlid             | 6:45 - 7:15 pm | Emily Her                
+Dan Borkhus               | 5:30 - 6:00 pm | Saivya Chauhan           
+Kayla Storlid             | 5:30 - 6:00 pm | Nathan Eggenberger       
+Tyler Waite               | 5:30 - 6:00 pm | Vedant Agrawal           
+Daniel G. Guerra Jr.      | 5:30 - 6:00 pm | Rita Roloff              
+Scott Rouse               | 6:45 - 7:15 pm | Jack Pawlik              
+Counts
+-----
+Steve O'Brien             | 2
+Kayla Storlid             | 3
+Tyler Waite               | 3
+Scott Rouse               | 3
+John Kuehl                | 3
+Jesse Darley              | 2
+Cedric Wesley             | 1
+Daniel G. Guerra Jr.      | 1
+Matt starr                | 1
+Scott Button              | 2
+Dan Borkhus               | 2
+Chandra Miller Fienen     | 2
+
