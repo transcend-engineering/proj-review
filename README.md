@@ -14,13 +14,13 @@ git clone https://github.com/transcend-engineering/proj-review.git
 
 ### Development
 ```
-Download mentor and student google spreadsheets as .csv files
-Rename mentor spreadsheet to MentorSignup.csv
-Rename student spreadsheet to StudentSignup.csv
-Ensure the mentors and students didn't put something unhelpful in their areas/industry section
-python project_review.py
-Ctrl + C to end program when you think enough results have been generated
-Pick a matching in the results/ directory
-Paste results to the spreadsheet on the google drive
+1. Download mentor and student google spreadsheets as .csv files
+2. Rename mentor spreadsheet to MentorSignup.csv
+3. Rename student spreadsheet to StudentSignup.csv
+4. Ensure the mentors and students didn't put something unhelpful in their areas/industry section
+5. python project_review.py
+6. Ctrl + C to end program when you think enough results have been generated
+7. Pick a matching in the results/ directory (higher score = better)
+8. Paste results to the spreadsheet on the google drive
 
 ```
